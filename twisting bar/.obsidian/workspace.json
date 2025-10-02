@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "a1fcfc671bac128e",
+    "type": "split",
+    "children": [
+      {
+        "id": "13a978ff8f045049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "844c7739c4691f57",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "twisting_f.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "twisting_f"
+            }
+          },
+          {
+            "id": "6228755fd1077561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2_theory"
+            }
+          },
+          {
+            "id": "839bd437535be01f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1_double_cantilever_beam_test_f (1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1_double_cantilever_beam_test_f (1)"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aee7673367f82f6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9838dc8c997ec341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db91454833ebd535",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "015f3204c87dc318",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "47ff5c2ba4ccb0ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6fa05204456f100",
+    "type": "split",
+    "children": [
+      {
+        "id": "91f1b1e2beb528b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42084e5bc78b82b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2_theory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2_theory"
+            }
+          },
+          {
+            "id": "c48e565ab9bdea42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2_theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2_theory"
+            }
+          },
+          {
+            "id": "894a1d877c57027f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5571b7c3ab5d2bcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_theory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2_theory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "db91454833ebd535",
+  "lastOpenFiles": [
+    "2_theory.md",
+    "1_double_cantilever_beam_test_f (1).pdf",
+    "cylinder 1.png",
+    "twisting_f.pdf",
+    "cylinder.png",
+    "Untitled.base",
+    "().md",
+    "![[cylinder.md",
+    "Untitled.md",
+    "Twisting bar.md",
+    "Welcome.md",
+    "twist_ hollow_ bar",
+    "Untitled 1.base",
+    "Untitled 2.base"
+  ]
+}
